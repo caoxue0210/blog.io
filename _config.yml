@@ -1,14 +1,14 @@
 # Site settings
-title: 读立写生
+title: CX Blog
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "everything will be ok"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://caoxue0210.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " caoxue0210"
   email: CnFeat@gmail.com
   bio: "写就是写的报酬"
 
